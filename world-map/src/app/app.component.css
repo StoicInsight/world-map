@@ -1,0 +1,25 @@
+nav {
+  width: 100vw;
+  height: 3rem;
+  background-color: brown;
+}
+.main { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  width: 100vw;
+  height: 100vh;
+}
+
+.world-map {
+  background-color: rgb(61, 126, 125);
+}
+
+.country-data {
+  background-color: lightseagreen;
+  padding: 1rem;
+  border: .1rem solid black;
+  border-radius: 25px;
+}
+

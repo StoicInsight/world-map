@@ -1,0 +1,5 @@
+
+.map img {
+    filter: hue-rotate(90deg);
+    fill: white;
+}
